@@ -5,7 +5,7 @@ button.addEventListener("click", ()=>{
     i += 1
     console.log(i)
     if(i % 2 == 0){
-        good.textContent = "偶数回押しました"
+        good.textContent = "偶数ううう回押しました"
     }else{
         good.textContent = "奇数回押しました"
     }
