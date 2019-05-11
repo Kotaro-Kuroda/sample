@@ -7,6 +7,7 @@ button.addEventListener("click", ()=>{
     if(i % 2 == 0){
         console.log("branch切った")
         console.log("good")
+        console.log("bad")
         good.textContent = "偶数回押しました"
     }else{
         good.textContent = "奇数回押しました"
